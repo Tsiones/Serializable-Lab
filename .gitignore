@@ -1,0 +1,9 @@
+# github automatically ignored files
+
+# eclipse related
+.classpath
+.project
+.settings
+bin/
+Repository/
+TestRepository/
